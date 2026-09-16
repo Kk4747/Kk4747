@@ -19,4 +19,4 @@ jobs:
           USERNAME: Kk4747
           UTC_OFFSET: 5
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
