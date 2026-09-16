@@ -98,7 +98,7 @@ const kanishkan = {
 <div align="center">
 
 <a href="https://linkedin.com/in/kanishkan-s"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
-<a href="https://github.com/Kk4747"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://github.com/Kk4747"><img src="https://img.shields.io/badge/GITHUB-6E7681?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 
 </div>
 
@@ -164,10 +164,6 @@ const kanishkan = {
 <img width="49%" src="https://raw.githubusercontent.com/Kk4747/Kk4747/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 
 <img width="49%" src="https://raw.githubusercontent.com/Kk4747/Kk4747/main/profile-summary-card-output/github_dark/3-stats.svg" />
-
-<br><br>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Kk4747&hide_border=true&background=0D1117&stroke=1F2937&ring=7C3AED&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=94A3B8&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
 
