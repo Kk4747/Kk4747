@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" alt="Kanishkan S — Founder & Product Builder" width="100%" />
+  <img src="./banner.png" alt="Kanishkan S — Founder & Product Builder" width="100%" />
 </div>
 
 <div align="center">
